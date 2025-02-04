@@ -1,0 +1,17 @@
+{
+    "name": "homepc/g_s",
+    "autoload": {
+        "psr-4": {
+            "Homepc\\GS\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "asiken",
+            "email": "130047148+asiken@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "twilio/sdk": "^8.3"
+    }
+}
